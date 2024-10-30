@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-26 10:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cbxsaveandvisit.php:58
+msgid "Update and Visit"
+msgstr ""
+
+#: cbxsaveandvisit.php:58
+msgid "Publish and Visit"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Save and Visit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a button to the Edit Post page which saves the post and redirects back "
+"to the post details page."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://manchumahara.com/cbx-save-and-visit-free-wordpress-plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
